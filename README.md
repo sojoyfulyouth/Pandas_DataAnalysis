@@ -2,4 +2,4 @@
 
 ##### 2023 first semester
 
-##### need to upload developerSurvey.csv file & Ch 7/8 code file
+##### need to upload Ch 7/8 code file
